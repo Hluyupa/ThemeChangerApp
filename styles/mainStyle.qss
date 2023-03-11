@@ -1,0 +1,10 @@
+QMainWindow{
+    background-color:$main-color
+}
+
+QPushButton{
+    background-color:$target-color;
+    color:$text-color;    
+    border-radius: 60px;
+    margin: 10px
+}
